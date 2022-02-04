@@ -1,5 +1,6 @@
 # This name-checker program checks to see if a user is Alice or an imposter.
 
+name = 'Alice'
 if name == 'Alice':
     print('Hi Alice.')
 elif age < 12:      # Alice is older than 12 years
