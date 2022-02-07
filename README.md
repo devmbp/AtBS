@@ -7,7 +7,7 @@ Credit to Kwadwo Adutwum (alias Optis Mistis) of the Scholarship Access Project 
 
 What to expect in this README/Repository:
 
-(a) Learning notes from my reading and understanding of the above named book as I journey through the pages.
+(a) Learning notes from my reading and understanding of the above named resource as I journey through the pages. Notes can be found here: [insert Google Docs URL]
 
 (b) Code from practice excercises in the learning resource.
 
